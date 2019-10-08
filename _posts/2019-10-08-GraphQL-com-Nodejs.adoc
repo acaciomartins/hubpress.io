@@ -4,6 +4,7 @@
 // :published_at: 2019-01-31
 :hp-tags: GraphQL nodejs
 // :hp-alt-title: My English Title
+
 Fala "garera"!!! Mais uma para seu stack de conhecimento!
 
 Acredito que muitos já tenham ouvido falar de  GraphQL, mas talvez poucos tenham entendido o que realmente ele faz!
