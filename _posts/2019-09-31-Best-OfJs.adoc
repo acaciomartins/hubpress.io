@@ -1,0 +1,16 @@
+= BestOfJs
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2019-09-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+Sensacional esse site!
+Você encontra uma lista dos projetos de código aberto mais popular relacionado à plataforma da Web e ao Node.js.
+
+Vale a pena dar uma conferida. ;)
+
+#BestOfJs #JavaScript #nodeJs #webPlataform
+ 
+
+https://bestofjs.org/
