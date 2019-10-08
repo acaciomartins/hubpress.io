@@ -1,0 +1,15 @@
+= Linguagens Funcionais?!?!?!?!?
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2019-09-07
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+ 
+Ultimamente, as linguagens ditas funcionais estão ganhando cada vez mais a atenção dos desenvolvedores em geral. E ai? Tem curiosidade? Esses artigos trazem uma visão bacana do que são Linguagens Funcionais.
+Vale a pena conferir!
+https://lnkd.in/e-wpQm5
+https://lnkd.in/erFcB_6
+https://lnkd.in/eWYcyin
+
+
+#linguagensFuncionais #TI #programacaoFuncional
