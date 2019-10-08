@@ -5,7 +5,7 @@
 // :hp-tags: HubPress, Blog, Open_Source,
 // :hp-alt-title: My English Title
 
-BestOfJs, sensacional esse site!
+Sensacional esse site!
 Você encontra uma lista dos projetos de código aberto mais popular relacionado à plataforma da Web e ao Node.js.
 
 Vale a pena dar uma conferida. ;)
