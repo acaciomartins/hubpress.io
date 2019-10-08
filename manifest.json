@@ -1,8 +1,8 @@
 {
   "name": "<dev_sem_fronteiras/>",
   "short_name": "dev_sem_fronteiras",
-  "theme_color": "#005f97",
-  "background_color": "#005f97",
+  "theme_color": "#000",
+  "background_color": "#000",
   "display": "standalone",
   "scope": "/",
   
