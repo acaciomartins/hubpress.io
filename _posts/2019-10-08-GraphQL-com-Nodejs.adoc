@@ -1,0 +1,24 @@
+= GraphQL com Node.js
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+:hp-tags: GraphQL nodejs
+// :hp-alt-title: My English Title
+Fala "garera"!!! Mais uma para seu stack de conhecimento!
+
+Acredito que muitos já tenham ouvido falar de  GraphQL, mas talvez poucos tenham entendido o que realmente ele faz!
+
+GraphQL é uma linguagem e especificação de consulta de dados criado pelo Facebook em 2012 e teve o código aberto em 2015. Ele provê uma alternativa ao REST e tem como objetivo aumentar a produtividade do desenvolvedor e minimizar a quantidade de dados transferidos, entregando ao cliente apenas o dado que interessa e realmente faz sentido.
+
+Suponha que você tenha um modelo enorme (na realidade é o que mais se vê) e numa consulta você precisa apenas de 3 informações tipo nome, profissão, e-mail e tipoSangue (o que também se vê muito). Em outro momento você precisa apenas do nome, idade, sexo e cidade.  Desenvolver vários micro serviços é uma alternativa e seria um parto. 
+
+O que o GraphQL propões é uma forma de consultar apenas o que precisamos. Caso tenha interesse em brincar e sentir na pele como é realizar consultas com GraphQL acesse esse link: https://lnkd.in/d4hFbAy
+ 
+Fontes:
+ https://lnkd.in/dKjbiSf
+ https://lnkd.in/dg_wzPp
+ 
+Poc
+GitHub: https://lnkd.in/dEiSDc7
+
+
