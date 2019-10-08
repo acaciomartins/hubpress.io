@@ -5,6 +5,7 @@
   "background_color": "#005f97",
   "display": "standalone",
   "scope": "/",
+  
   "start_url": "/?utm_source=homescreen",
   "lang": "pt-BR",
   "orientation": "any",
