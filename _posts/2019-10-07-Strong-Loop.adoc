@@ -1,0 +1,17 @@
+= StrongLoop
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2019-10-07
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+StrongLoop Process Manager.
+
+Se alguém está em dúvida de um bom Gerenciador de Processos de Aplicativos para Nodejs segue um comparativo entre: StrongLoop, pm2 e Forever.
+
+Bacana a comparação!
+
+Fontes:
+https://lnkd.in/dD49bDt
+https://lnkd.in/dVj4ztH
+
+#nodejs #ProcessManager #StrongLoop #pm2 #Forever
