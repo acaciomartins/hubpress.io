@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[<dev_sem_fronteiras/>]]></title><description><![CDATA[<dev_sem_fronteiras/>]]></description><link>https://acaciomartins.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 08 Oct 2019 13:29:08 GMT</lastBuildDate><atom:link href="https://acaciomartins.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[MongoDB 4.2 - Views Materializadas]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[<dev_sem_fronteiras/>]]></title><description><![CDATA[<dev_sem_fronteiras/>]]></description><link>https://acaciomartins.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 08 Oct 2019 13:30:05 GMT</lastBuildDate><atom:link href="https://acaciomartins.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[MongoDB 4.2 - Views Materializadas]]></title><description><![CDATA[<div class="paragraph">
 <p>Continuando sobre MongoDB 4.2 (ainda em Release) queria compartilhar sobre Views Materializadas. Sim, é possível Views Materializadas em MongoDB.</p>
 </div>
 <div class="paragraph">
@@ -35,7 +35,27 @@ Desde a versão 4.0 as transações já eram suportadas em um ambiente que utili
 </div>
 <div class="paragraph">
 <p><a href="https://lnkd.in/dxUvRAY" class="bare">https://lnkd.in/dxUvRAY</a></p>
-</div>]]></description><link>https://acaciomartins.github.io/2019/10/08/MongoDB-42-As-transacoes-distribuidas.html</link><guid isPermaLink="true">https://acaciomartins.github.io/2019/10/08/MongoDB-42-As-transacoes-distribuidas.html</guid><dc:creator><![CDATA[Acácio Amorelli Martins]]></dc:creator><pubDate>Tue, 08 Oct 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[Clojure]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>https://acaciomartins.github.io/2019/10/08/MongoDB-42-As-transacoes-distribuidas.html</link><guid isPermaLink="true">https://acaciomartins.github.io/2019/10/08/MongoDB-42-As-transacoes-distribuidas.html</guid><dc:creator><![CDATA[Acácio Amorelli Martins]]></dc:creator><pubDate>Tue, 08 Oct 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[GraphQL com Node.js]]></title><description><![CDATA[<div class="paragraph">
+<p>Acredito que muitos já tenham ouvido falar de  GraphQL, mas talvez poucos tenham entendido o que realmente ele faz!</p>
+</div>
+<div class="paragraph">
+<p>GraphQL é uma linguagem e especificação de consulta de dados criado pelo Facebook em 2012 e teve o código aberto em 2015. Ele provê uma alternativa ao REST e tem como objetivo aumentar a produtividade do desenvolvedor e minimizar a quantidade de dados transferidos, entregando ao cliente apenas o dado que interessa e realmente faz sentido.</p>
+</div>
+<div class="paragraph">
+<p>Suponha que você tenha um modelo enorme (na realidade é o que mais se vê) e numa consulta você precisa apenas de 3 informações tipo nome, profissão, e-mail e tipoSangue (o que também se vê muito). Em outro momento você precisa apenas do nome, idade, sexo e cidade.  Desenvolver vários micro serviços é uma alternativa e seria um parto.</p>
+</div>
+<div class="paragraph">
+<p>O que o GraphQL propões é uma forma de consultar apenas o que precisamos. Caso tenha interesse em brincar e sentir na pele como é realizar consultas com GraphQL acesse esse link: <a href="https://lnkd.in/d4hFbAy" class="bare">https://lnkd.in/d4hFbAy</a></p>
+</div>
+<div class="paragraph">
+<p>Fontes:
+ <a href="https://lnkd.in/dKjbiSf" class="bare">https://lnkd.in/dKjbiSf</a>
+ <a href="https://lnkd.in/dg_wzPp" class="bare">https://lnkd.in/dg_wzPp</a></p>
+</div>
+<div class="paragraph">
+<p>Poc
+GitHub: <a href="https://lnkd.in/dEiSDc7" class="bare">https://lnkd.in/dEiSDc7</a></p>
+</div>]]></description><link>https://acaciomartins.github.io/2019/10/08/GraphQL-com-Nodejs.html</link><guid isPermaLink="true">https://acaciomartins.github.io/2019/10/08/GraphQL-com-Nodejs.html</guid><category><![CDATA[GraphQL nodejs]]></category><dc:creator><![CDATA[Acácio Amorelli Martins]]></dc:creator><pubDate>Tue, 08 Oct 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[Clojure]]></title><description><![CDATA[<div class="paragraph">
 <p>Olha que bacana esse livro de Introdução em Clojure da Casa do Código!</p>
 </div>
 <div class="paragraph">
