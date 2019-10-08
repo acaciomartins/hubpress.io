@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[<dev_sem_fronteiras/>]]></title><description><![CDATA[<dev_sem_fronteiras/>]]></description><link>https://acaciomartins.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 08 Oct 2019 13:19:51 GMT</lastBuildDate><atom:link href="https://acaciomartins.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[MongoDB 4.2 - Views Materializadas]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[<dev_sem_fronteiras/>]]></title><description><![CDATA[<dev_sem_fronteiras/>]]></description><link>https://acaciomartins.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 08 Oct 2019 13:21:27 GMT</lastBuildDate><atom:link href="https://acaciomartins.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[MongoDB 4.2 - Views Materializadas]]></title><description><![CDATA[<div class="paragraph">
 <p>Continuando sobre MongoDB 4.2 (ainda em Release) queria compartilhar sobre Views Materializadas. Sim, é possível Views Materializadas em MongoDB.</p>
 </div>
 <div class="paragraph">
@@ -22,7 +22,20 @@
 </div>
 <div class="paragraph">
 <p>#programacaoFuncional #clojure #casaDoCodigo</p>
-</div>]]></description><link>https://acaciomartins.github.io/2019/10/08/Clojure.html</link><guid isPermaLink="true">https://acaciomartins.github.io/2019/10/08/Clojure.html</guid><dc:creator><![CDATA[Acácio Amorelli Martins]]></dc:creator><pubDate>Tue, 08 Oct 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[Linguagens Funcionais?!?!?!?!?]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>https://acaciomartins.github.io/2019/10/08/Clojure.html</link><guid isPermaLink="true">https://acaciomartins.github.io/2019/10/08/Clojure.html</guid><dc:creator><![CDATA[Acácio Amorelli Martins]]></dc:creator><pubDate>Tue, 08 Oct 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[StrongLoop]]></title><description><![CDATA[<div class="paragraph">
+<p>Se alguém está em dúvida de um bom Gerenciador de Processos de Aplicativos para Nodejs segue um comparativo entre: StrongLoop, pm2 e Forever.</p>
+</div>
+<div class="paragraph">
+<p>Bacana a comparação!</p>
+</div>
+<div class="paragraph">
+<p>Fontes:
+<a href="https://lnkd.in/dD49bDt" class="bare">https://lnkd.in/dD49bDt</a>
+<a href="https://lnkd.in/dVj4ztH" class="bare">https://lnkd.in/dVj4ztH</a></p>
+</div>
+<div class="paragraph">
+<p>#nodejs #ProcessManager #StrongLoop #pm2 #Forever</p>
+</div>]]></description><link>https://acaciomartins.github.io/2019/10/07/Strong-Loop.html</link><guid isPermaLink="true">https://acaciomartins.github.io/2019/10/07/Strong-Loop.html</guid><dc:creator><![CDATA[Acácio Amorelli Martins]]></dc:creator><pubDate>Mon, 07 Oct 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[Linguagens Funcionais?!?!?!?!?]]></title><description><![CDATA[<div class="paragraph">
 <p>Ultimamente, as linguagens ditas funcionais estão ganhando cada vez mais a atenção dos desenvolvedores em geral. E ai? Tem curiosidade? Esses artigos trazem uma visão bacana do que são Linguagens Funcionais.
 Vale a pena conferir!
 <a href="https://lnkd.in/e-wpQm5" class="bare">https://lnkd.in/e-wpQm5</a>
