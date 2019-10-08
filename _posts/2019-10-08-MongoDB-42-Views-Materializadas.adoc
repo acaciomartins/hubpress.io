@@ -1,0 +1,24 @@
+= MongoDB 4.2 - Views Materializadas
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+Salve meus caros!!!
+
+Continuando sobre MongoDB 4.2 (ainda em Release) queria compartilhar sobre Views Materializadas. Sim, é possível Views Materializadas em MongoDB.
+
+Se bem utilizadas, assim como nos Bancos de Dados relacionais, as Views Materializadas podem ser um bom recurso para melhorar o desempenho em suas consultas.
+
+Não sabe o que é View ou View Materializada? Recomendo primeiro ler o artigo do link que vou deixar no fim do post.
+
+
+#mongoDB #viewsMaterializadas #materializedView
+
+
+Views Materializadas no MongoDB? Sim, é possível!!!
+https://lnkd.in/dh8p2xf
+
+
+Qual a diferênça entre View e Materialized View?
+https://lnkd.in/dZKiuMY
