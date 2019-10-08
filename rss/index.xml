@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[<dev_sem_fronteiras/>]]></title><description><![CDATA[<dev_sem_fronteiras/>]]></description><link>https://acaciomartins.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 08 Oct 2019 13:19:03 GMT</lastBuildDate><atom:link href="https://acaciomartins.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Clojure]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[<dev_sem_fronteiras/>]]></title><description><![CDATA[<dev_sem_fronteiras/>]]></description><link>https://acaciomartins.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 08 Oct 2019 13:19:51 GMT</lastBuildDate><atom:link href="https://acaciomartins.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[MongoDB 4.2 - Views Materializadas]]></title><description><![CDATA[<div class="paragraph">
+<p>Continuando sobre MongoDB 4.2 (ainda em Release) queria compartilhar sobre Views Materializadas. Sim, é possível Views Materializadas em MongoDB.</p>
+</div>
+<div class="paragraph">
+<p>Se bem utilizadas, assim como nos Bancos de Dados relacionais, as Views Materializadas podem ser um bom recurso para melhorar o desempenho em suas consultas.</p>
+</div>
+<div class="paragraph">
+<p>Não sabe o que é View ou View Materializada? Recomendo primeiro ler o artigo do link que vou deixar no fim do post.</p>
+</div>
+<div class="paragraph">
+<p>#mongoDB #viewsMaterializadas #materializedView</p>
+</div>
+<div class="paragraph">
+<p>Views Materializadas no MongoDB? Sim, é possível!!!
+<a href="https://lnkd.in/dh8p2xf" class="bare">https://lnkd.in/dh8p2xf</a></p>
+</div>
+<div class="paragraph">
+<p>Qual a diferênça entre View e Materialized View?
+<a href="https://lnkd.in/dZKiuMY" class="bare">https://lnkd.in/dZKiuMY</a></p>
+</div>]]></description><link>https://acaciomartins.github.io/2019/10/08/MongoDB-42-Views-Materializadas.html</link><guid isPermaLink="true">https://acaciomartins.github.io/2019/10/08/MongoDB-42-Views-Materializadas.html</guid><dc:creator><![CDATA[Acácio Amorelli Martins]]></dc:creator><pubDate>Tue, 08 Oct 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[Clojure]]></title><description><![CDATA[<div class="paragraph">
 <p>Olha que bacana esse livro de Introdução em Clojure da Casa do Código!</p>
 </div>
 <div class="paragraph">
