@@ -1,0 +1,20 @@
+= MongoDB 4.2 - As transações distribuídas
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+Novidade do MongoDB 4.2 - As transações distribuídas
+
+Quem acha que transações é uma característica única dos bancos de dados relacionais está equivocado, isso mesmo.
+Desde a versão 4.0 as transações já eram suportadas em um ambiente que utilizasse a replicação, mas não eram suportadas se fosse utilizado o sharding.
+
+No MongoDB World de 2019 foi anunciado que a versão versão 4.2, disponível como Release Candidate (RC), disponibiliza suporte às transações distribuidas.
+
+Ficou curioso?
+
+Acesse a matéria abaixo e saiba mais sobre as Novidades da versão 4.2 do MongoDB: As transações distribuídas.
+
+#mongodb #developer #nosql #mongodbworld2019 #transacoesdistribuidas #fullstackdeveloper
+
+https://lnkd.in/dxUvRAY
