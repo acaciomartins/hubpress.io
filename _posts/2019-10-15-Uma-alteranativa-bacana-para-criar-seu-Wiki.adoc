@@ -1,8 +1,8 @@
 = Uma alteranativa bacana para criar seu Wiki
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 // :hp-image: /covers/cover.png
-// :published_at: 2019-01-31
-// :hp-tags: wiki.js, wiki, node.js, mongodb. github
+:published_at: 2019-10-15
+:hp-tags: wiki.js, wiki, node.js, mongodb. github
 // :hp-alt-title: My English Title
 Salve garera!
 
