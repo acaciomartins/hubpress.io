@@ -1,0 +1,21 @@
+= Angular 8 - Could not find the implementation for builder @angular-devkit/build-angular:dev-server
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2020-01-19
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+*Erro*
+
+Ao startar aplicação Angular 8 acontece o seguinte erro:
+
+_An unhandled exception occurred: Could not find the implementation for builder @angular-devkit/build-angular:dev-server_
+_See "/tmp/ng-m97YbA/angular-errors.log" for further details._
+
+
+*Solução*
+
+```
+npm uninstall @angular-devkit/build-angular
+npm install @angular-devkit/build-angular
+```
