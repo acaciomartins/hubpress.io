@@ -1,49 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[<dev_sem_fronteiras/>]]></title><description><![CDATA[<dev_sem_fronteiras/>]]></description><link>https://acaciomartins.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 15 Oct 2019 21:32:19 GMT</lastBuildDate><atom:link href="https://acaciomartins.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Uma alteranativa bacana para criar seu Wiki]]></title><description><![CDATA[<div class="paragraph">
-<p>Precisavamos de uma Wiki, na verdade pretendemos usar uma Wiki para documentação de algumas tarefas que temos como RDM, DataSource, Tutoriais e outras coisas.</p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[<dev_sem_fronteiras/>]]></title><description><![CDATA[<dev_sem_fronteiras/>]]></description><link>https://acaciomartins.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 19 Jan 2020 16:18:06 GMT</lastBuildDate><atom:link href="https://acaciomartins.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Angular 8 - Could not find the implementation for builder @angular-devkit/build-angular:dev-server]]></title><description><![CDATA[<div class="paragraph">
+<p><strong>Erro</strong></p>
 </div>
 <div class="paragraph">
-<p>Sem delongas, acabei encontrando o Wiki.js, uma plataforma wiki, sensacional e com as melhores tecnologias!</p>
+<p>Ao startar aplicação Angular 8 acontece o seguinte erro:</p>
 </div>
 <div class="paragraph">
-<p>O bacana é que todo o conteúdo fica armazenado em seu repositório git.</p>
+<p><em>An unhandled exception occurred: Could not find the implementation for builder @angular-devkit/build-angular:dev-server</em>
+<em>See "/tmp/ng-m97YbA/angular-errors.log" for further details.</em></p>
 </div>
 <div class="paragraph">
-<p>Para você ter uma ideia, eu criei essa Wiki em menos de 10 minutos, tudo em Cloud.</p>
+<p><strong>Solução</strong></p>
 </div>
-<div class="paragraph">
-<p><strong>Tecnologias empregadas</strong></p>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code>npm uninstall @angular-devkit/build-angular
+npm install @angular-devkit/build-angular</code></pre>
 </div>
-<div class="ulist">
-<ul>
-<li>
-<p>Node.js</p>
-</li>
-<li>
-<p>Git (GitHub, GitLab ou Bitbucket)</p>
-</li>
-<li>
-<p>MongoDB</p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>Acesso o link do tutorial que eu fiz e descubra como é fácil.</p>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>A configuração e deploy foram feitos no Heroku
-<strong>Motivação:</strong> Aprender novas tecnologias</p>
-</div>
-</blockquote>
-</div>
-<div class="paragraph">
-<p>Link tutorial: <a href="https://wikidevsemfronteiras.herokuapp.com/" class="bare">https://wikidevsemfronteiras.herokuapp.com/</a></p>
-</div>
-<div class="paragraph">
-<p>Fonte:
-<a href="https://wiki.js.org/" class="bare">https://wiki.js.org/</a></p>
-</div>]]></description><link>https://acaciomartins.github.io/2019/10/15/Uma-alteranativa-bacana-para-criar-seu-Wiki.html</link><guid isPermaLink="true">https://acaciomartins.github.io/2019/10/15/Uma-alteranativa-bacana-para-criar-seu-Wiki.html</guid><category><![CDATA[wiki.js]]></category><category><![CDATA[wiki]]></category><category><![CDATA[node.js]]></category><category><![CDATA[mongodb. github]]></category><dc:creator><![CDATA[Acácio Amorelli Martins]]></dc:creator><pubDate>Tue, 15 Oct 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[MongoDB 4.2 - Views Materializadas]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>https://acaciomartins.github.io/2020/01/19/Angular-8-Could-not-find-the-implementation-for-builder-angular-devkitbuild-angulardev-server.html</link><guid isPermaLink="true">https://acaciomartins.github.io/2020/01/19/Angular-8-Could-not-find-the-implementation-for-builder-angular-devkitbuild-angulardev-server.html</guid><dc:creator><![CDATA[Acácio Amorelli Martins]]></dc:creator><pubDate>Sun, 19 Jan 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[MongoDB 4.2 - Views Materializadas]]></title><description><![CDATA[<div class="paragraph">
 <p>Continuando sobre MongoDB 4.2 (ainda em Release) queria compartilhar sobre Views Materializadas. Sim, é possível Views Materializadas em MongoDB.</p>
 </div>
 <div class="paragraph">
