@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[<dev_sem_fronteiras/>]]></title><description><![CDATA[<dev_sem_fronteiras/>]]></description><link>https://acaciomartins.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 19 Jan 2020 16:18:06 GMT</lastBuildDate><atom:link href="https://acaciomartins.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Angular 8 - Could not find the implementation for builder @angular-devkit/build-angular:dev-server]]></title><description><![CDATA[<div class="paragraph">
-<p><strong>Erro</strong></p>
-</div>
-<div class="paragraph">
-<p>Ao startar aplicação Angular 8 acontece o seguinte erro:</p>
-</div>
-<div class="paragraph">
-<p><em>An unhandled exception occurred: Could not find the implementation for builder @angular-devkit/build-angular:dev-server</em>
-<em>See "/tmp/ng-m97YbA/angular-errors.log" for further details.</em></p>
-</div>
-<div class="paragraph">
-<p><strong>Solução</strong></p>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre class="highlight"><code>npm uninstall @angular-devkit/build-angular
-npm install @angular-devkit/build-angular</code></pre>
-</div>
-</div>]]></description><link>https://acaciomartins.github.io/2020/01/19/Angular-8-Could-not-find-the-implementation-for-builder-angular-devkitbuild-angulardev-server.html</link><guid isPermaLink="true">https://acaciomartins.github.io/2020/01/19/Angular-8-Could-not-find-the-implementation-for-builder-angular-devkitbuild-angulardev-server.html</guid><dc:creator><![CDATA[Acácio Amorelli Martins]]></dc:creator><pubDate>Sun, 19 Jan 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[MongoDB 4.2 - Views Materializadas]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[<dev_sem_fronteiras/>]]></title><description><![CDATA[<dev_sem_fronteiras/>]]></description><link>https://acaciomartins.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 19 Jan 2020 16:18:29 GMT</lastBuildDate><atom:link href="https://acaciomartins.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[MongoDB 4.2 - Views Materializadas]]></title><description><![CDATA[<div class="paragraph">
 <p>Continuando sobre MongoDB 4.2 (ainda em Release) queria compartilhar sobre Views Materializadas. Sim, é possível Views Materializadas em MongoDB.</p>
 </div>
 <div class="paragraph">
