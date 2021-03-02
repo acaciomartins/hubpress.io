@@ -6,5 +6,52 @@
   },
    "theme": {
     "name": "casper"
-  }
+  },
+  "urls": {
+    "site": "https://acaciomartins.github.io",
+    "hubpress": "https://acaciomartins.github.io",
+    "theme": "//acaciomartins.github.io/themes/casper",
+    "images": "https://acaciomartins.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ],
+    "_Ctor": {}
+  },
+  "site": {
+    "title": "<dev_sem_fronteiras/>",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "blogPath": "",
+    "googleAnalytics": "UA-16491296-2",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "acacio.am@gmail.com",
+    "github": "https://github.com/acaciomartins",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "https://www.linkedin.com/in/ac%C3%A1cio-amorelli-martins-30133651/",
+    "stackoverflow": "https://pt.stackoverflow.com/users/30728/acacio-martins",
+    "paypalme": "",
+    "opencollective": ""
+  },
+  "navigation": []
 }
